@@ -1,11 +1,3 @@
-.App {
-  text-align: center;
-}
-
-.App-logo {
-  height: 40vmin;
-}
-
 .App-header {
   background-color: #282c34;
   min-height: 100vh;
@@ -19,4 +11,22 @@
 
 .App-link {
   color: #09d3ac;
+}
+.hotbutton1{
+  color: brown;
+  background-color: violet;
+  height: 80px;
+  width:100px;
+}
+
+.hotbutton2{
+  background-color: plum;
+  height: 80px;
+  width:100px;
+  align-items: initial;
+  text-align: left;
+}
+
+.JavascriptExpression{
+  font-display: 3000px;
 }
